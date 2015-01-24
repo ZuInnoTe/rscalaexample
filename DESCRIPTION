@@ -1,0 +1,11 @@
+Package: rscalaexample
+Type: Package
+Title: Example for calling a scala method within R and for calling R within scala
+Depends: R (>= 3.0.0), rJava (>= 0.9-6)
+SystemRequirements: Java (>= 1.7)
+Version: 0.1
+Date: 2015-01-11
+Author: Jörn Franke
+Maintainer: ZuInnoTe <zuinnote@gmail.com>
+Description: Simple example for calling a simple scala method within R and for calling R within scala
+License: MIT
