@@ -7,7 +7,7 @@ lazy val root = (project in file(".")).
 
 scalacOptions += "-target:jvm-1.7"
 
-assemblyJarName in assembly := "rscalaexample-0.1.jar"
+assemblyJarName in assembly := "rscalaexample.jar"
 
 libraryDependencies += "com.github.lucarosellini.rJava" % "JRIEngine" % "0.9-7" % "provided"
 
